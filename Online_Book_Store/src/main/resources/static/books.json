@@ -1,0 +1,309 @@
+[{
+  "_id": {
+    "$oid": "64bc140605856a0c8f3404f6"
+  },
+  "bookName": "Harry Potter and the Philosopher's Stone",
+  "author": "J. K. Rowling",
+  "genre": "Fantasy",
+  "volume": 7,
+  "bookType": "Paperback",
+  "series": "Harry Potter",
+  "pages": 352,
+  "inStock": true,
+  "price": 7.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc149b05856a0c8f3404f7"
+  },
+  "bookName": "Harry Potter and the Chamber of Secrets",
+  "author": "J. K. Rowling",
+  "genre": "Fantasy",
+  "volume": 7,
+  "bookType": "Paperback",
+  "series": "Harry Potter",
+  "pages": 384,
+  "inStock": true,
+  "price": 7.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc14f905856a0c8f3404f8"
+  },
+  "bookName": "Harry Potter and the Prisoner of Azkaban",
+  "author": "J. K. Rowling",
+  "genre": "Fantasy",
+  "volume": 7,
+  "bookType": "Paperback",
+  "series": "Harry Potter",
+  "pages": 480,
+  "inStock": true,
+  "price": 7.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc155a05856a0c8f3404f9"
+  },
+  "bookName": "Harry Potter and the Goblet of Fire",
+  "author": "J. K. Rowling",
+  "genre": "Fantasy",
+  "volume": 7,
+  "bookType": "Paperback",
+  "series": "Harry Potter",
+  "pages": 640,
+  "inStock": true,
+  "price": 8.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc159605856a0c8f3404fa"
+  },
+  "bookName": "Harry Potter and the Order of the Phoenix",
+  "author": "J. K. Rowling",
+  "genre": "Fantasy",
+  "volume": 7,
+  "bookType": "Paperback",
+  "series": "Harry Potter",
+  "pages": 816,
+  "inStock": true,
+  "price": 8.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc15b605856a0c8f3404fb"
+  },
+  "bookName": "Harry Potter and the Half-Blood Prince",
+  "author": "J. K. Rowling",
+  "genre": "Fantasy",
+  "volume": 7,
+  "bookType": "Paperback",
+  "series": "Harry Potter",
+  "pages": 560,
+  "inStock": true,
+  "price": 8.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc15e205856a0c8f3404fc"
+  },
+  "bookName": "Harry Potter and the Deathly Hallows",
+  "author": "J. K. Rowling",
+  "genre": "Fantasy",
+  "volume": 7,
+  "bookType": "Paperback",
+  "series": "Harry Potter",
+  "pages": 640,
+  "inStock": true,
+  "price": 8.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc17d905856a0c8f3404fd"
+  },
+  "bookName": "Yellowface",
+  "author": "R.F. Kuang",
+  "genre": "Thriller",
+  "volume": 1,
+  "bookType": "Hardback",
+  "pages": 336,
+  "inStock": true,
+  "price": 14.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc18a705856a0c8f3404fe"
+  },
+  "bookName": "Pax: War and Peace in Rome's Golden Age",
+  "author": "Tom Holland",
+  "genre": "History",
+  "volume": 1,
+  "bookType": "Hardback",
+  "pages": 448,
+  "inStock": false,
+  "price": 26.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc18d205856a0c8f3404ff"
+  },
+  "bookName": "In The Shadow Of The Sword: The Battle for Global Empire and the End of the Ancient World",
+  "author": "Tom Holland",
+  "genre": "History",
+  "volume": 1,
+  "bookType": "Hardback",
+  "pages": 592,
+  "inStock": true,
+  "price": 12.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc1bb705856a0c8f340500"
+  },
+  "bookName": "Twilight",
+  "author": "Stephenie Meyer",
+  "genre": "Fiction",
+  "volume": 4,
+  "bookType": "eBook",
+  "series": "Twilight Saga",
+  "pages": 464,
+  "inStock": true,
+  "price": 4.08,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc1c2c05856a0c8f340501"
+  },
+  "bookName": "New Moon",
+  "author": "Stephenie Meyer",
+  "genre": "Fiction",
+  "volume": 4,
+  "bookType": "eBook",
+  "series": "Twilight Saga",
+  "pages": 512,
+  "inStock": true,
+  "price": 4.53,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc1c6405856a0c8f340502"
+  },
+  "bookName": "Eclipse",
+  "author": "Stephenie Meyer",
+  "genre": "Fiction",
+  "volume": 4,
+  "bookType": "eBook",
+  "series": "Twilight Saga",
+  "pages": 576,
+  "inStock": true,
+  "price": 4.53,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc1c8d05856a0c8f340503"
+  },
+  "bookName": "Breaking Dawn",
+  "author": "Stephenie Meyer",
+  "genre": "Fiction",
+  "volume": 4,
+  "bookType": "eBook",
+  "series": "Twilight Saga",
+  "pages": 720,
+  "inStock": false,
+  "price": 4.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc1d7f05856a0c8f340504"
+  },
+  "bookName": "Shadow and Bone",
+  "author": "Leigh Bardugo",
+  "genre": "Young Adult",
+  "volume": 3,
+  "bookType": "eBook",
+  "series": "Shadow and Bone Triology",
+  "pages": 368,
+  "inStock": true,
+  "price": 9.07,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc1db105856a0c8f340505"
+  },
+  "bookName": "Siege and Storm",
+  "author": "Leigh Bardugo",
+  "genre": "Young Adult",
+  "volume": 3,
+  "bookType": "eBook",
+  "series": "Shadow and Bone Triology",
+  "pages": 320,
+  "inStock": true,
+  "price": 9.07,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc1dde05856a0c8f340506"
+  },
+  "bookName": "Ruin and Rising",
+  "author": "Leigh Bardugo",
+  "genre": "Young Adult",
+  "volume": 3,
+  "bookType": "eBook",
+  "series": "Shadow and Bone Triology",
+  "pages": 320,
+  "inStock": false,
+  "price": 9.07,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc1f6705856a0c8f340508"
+  },
+  "bookName": "The Da Vinci Code",
+  "author": "Dan Brown",
+  "genre": "Thriller",
+  "volume": 1,
+  "bookType": "Hardback",
+  "pages": 592,
+  "inStock": true,
+  "price": 9.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc1fac05856a0c8f340509"
+  },
+  "bookName": "Digital Fortress",
+  "author": "Dan Brown",
+  "genre": "Thriller",
+  "volume": 1,
+  "bookType": "Hardback",
+  "pages": 512,
+  "inStock": true,
+  "price": 8.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc205905856a0c8f34050a"
+  },
+  "bookName": "The Lost Symbol",
+  "author": "Dan Brown",
+  "genre": "Thriller",
+  "volume": 4,
+  "bookType": "Hardback",
+  "series": "Robert Langdon",
+  "pages": 672,
+  "inStock": true,
+  "price": 9.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+},
+{
+  "_id": {
+    "$oid": "64bc2344e6cd971839fd0492"
+  },
+  "bookName": "Me vs Brain: An Overthinker's Guide to Life",
+  "author": "Hayley Morris",
+  "genre": "Humour",
+  "volume": 1,
+  "bookType": "Hardback",
+  "pages": 304,
+  "inStock": false,
+  "price": 18.99,
+  "_class": "ad.demo.onlinebookstore.model.Book"
+}]
